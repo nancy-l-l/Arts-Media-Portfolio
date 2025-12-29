@@ -52,9 +52,6 @@
   <img src="IgnoreMe/IMG_3850.jpg" width="280" />
 </a>
 
-<a href="IgnoreMe/IMG_6870.jpg">
-  <img src="IgnoreMe/IMG_6870.jpg" width="280" />
-</a>
 <a href="IgnoreMe/NL-Black-Belly-768x586%203.jpg">
   <img src="IgnoreMe/NL-Black-Belly-768x586%203.jpg" width="280" />
 </a>
