@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <a href="./Thumb-Print-Matching/">
+      <a href="https://github.com/nancy-l-l/OCTDiff/tree/5fc6adbaf0a050752a33d993112a403308a0be8d">
         <img src="./Assets/Biometric_Authentication.jpg" width="360" alt="Biometric_Authentication.jpg" />
       </a>
       <br />
