@@ -28,10 +28,9 @@
       <br />
       <sub>VR Reading Aid</sub>
     </td>
-</table>
-
-    <tr>
-    <td align="center" valign="top">
+   
+  <tr>
+  <td align="center" valign="top">
       <a href="./Visual_Arts_Portfolio/">
         <img src="./Assets/Visual_Arts.jpg" width="360" alt="Visual_Arts.jpg" />
       </a>
