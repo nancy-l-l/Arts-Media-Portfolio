@@ -58,11 +58,11 @@
   <img src="IgnoreMe/Image%204-16-25%20at%207.38%20PM.jpeg" width="280" />
 </a>
 
-<a href="IgnoreMe/Monochromatic.HEIC">
-  <img src="IgnoreMe/Monochromatic.HEIC" width="280" />
+<a href="IgnoreMe/Monochromatic.jpg">
+  <img src="IgnoreMe/Monochromatic.jpg" width="280" />
 </a>
-<a href="IgnoreMe/artificial%20light.HEIC">
-  <img src="IgnoreMe/artificial%20light.HEIC" width="280" />
+<a href="IgnoreMe/artificial%20light.jpg">
+  <img src="IgnoreMe/artificial%20light.jpg" width="280" />
 </a>
 
 </div>
