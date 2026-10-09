@@ -4,12 +4,12 @@
   <a href="IgnoreMe/IMG_5228.jpg">
   <img src="IgnoreMe/IMG_5228.jpg" width="280" />
 </a>
-<a href="IgnoreMe/IMG_0106.heic">
-  <img src="IgnoreMe/IMG_0106.heic" width="280" />
+<a href="IgnoreMe/IMG_0106.jpg">
+  <img src="IgnoreMe/IMG_0106.jpg" width="280" />
 </a>
 
-<a href="IgnoreMe/IMG_0107.heic">
-  <img src="IgnoreMe/IMG_0107.heic" width="280" />
+<a href="IgnoreMe/IMG_0107.jpg">
+  <img src="IgnoreMe/IMG_0107.jpg" width="280" />
 </a>
 
 
